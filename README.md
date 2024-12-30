@@ -14,7 +14,7 @@ Conduct analysis on your client's transaction dataset and identify customer purc
 
 
 
-**_Task-2_** 
+<ins> **Task-2** </ins>
 
 The Main Goal is to: 
 
@@ -30,7 +30,7 @@ Extend your analysis from Task 1 to help you identify benchmark stores that allo
 
 
 
-**_Task-3_** 
+<ins> **Task-3** </ins>
 
 The Main Goal is to:
 
