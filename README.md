@@ -4,7 +4,7 @@ The Main Goal is to:
 
 Conduct analysis on your client's transaction dataset and identify customer purchasing behaviours to generate insights and provide commercial recommendations
 
-What I did
+ <ins>What I did</ins>
 
 Analyzed transaction and customer data to identify trends and inconsistencies. 
 
