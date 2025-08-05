@@ -41,3 +41,6 @@ Use your analytics and insights from Task 1 and 2 to prepare a report for your c
 * Used the Pyramid Principles framework for structuring the report.
 
 * Submitted a report that incorporates data visualizations, key insights, and recommendations.
+
+<ins>Tools & Techniques Used</ins> 
+• Python (Pandas, NumPy, Matplotlib, Seaborn) • SQL for data extraction • Tableau for interactive dashboards • Pyramid Principle for report structure
