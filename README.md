@@ -1,3 +1,7 @@
+<ins> **About** </ins>
+
+This project simulates a real-world business problem provided by Quantium via Forage. I analyzed retail customer data to uncover insights for improving store layouts and performance. Used Python for segmentation, sales trend analysis, and control vs. trial store evaluation. Delivered a strategic report with data-backed recommendations.
+
 <ins> **Task-1** </ins>
 
 The Main Goal is to: 
